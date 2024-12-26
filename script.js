@@ -9,22 +9,22 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Inventory Management System",
             description: "A web application for managing inventory efficiently, built using Java, Spring Boot, and MySQL.",
-            link: "https://github.com/maheshpande/inventory-management"
+            link: "https://github.com/maheshpande914602/inventory-management"
         },
         {
             title: "Android Expense Tracker",
             description: "A mobile app for tracking personal expenses, developed with Android Studio and Firebase.",
-            link: "https://github.com/maheshpande/expense-tracker"
+            link: "https://github.com/maheshpande914602/expense-tracker"
         },
         {
             title: "E-commerce Website",
             description: "An online shopping platform using JSP, Servlets, and Hibernate.",
-            link: "https://github.com/maheshpande/ecommerce-website"
+            link: "https://github.com/maheshpande914602/ecommerce-website"
         },
         {
             title: "Weather Forecast App",
             description: "A real-time weather app built with Python, Flask, and OpenWeatherMap API.",
-            link: "https://github.com/maheshpande/weather-app"
+            link: "https://github.com/maheshpande914602/weather-app"
         }
     ];
     
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const contactInfo = `
         <p>Email: <a href="mailto:maheshpande2015@gmail.com">maheshpande2015@gmail.com</a></p>
         <p>Phone: <a href="tel:+919146024870">+91 9146024870</a></p>
-        <p><a href="https://linkedin.com/in/maheshpande" target="_blank">LinkedIn</a> | <a href="https://github.com/maheshpande" target="_blank">GitHub</a></p>
+        <p><a href="https://www.linkedin.com/in/mahi946/" target="_blank">LinkedIn</a> | <a href="https://github.com/maheshpande914602" target="_blank">GitHub</a></p>
     `;
     
     // Load Dynamic Content
